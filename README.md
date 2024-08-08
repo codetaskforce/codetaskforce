@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=CODETASKFORCE!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=CodeTaskforce!)](https://git.io/typing-svg)
 
 - 👀 I’m interested in React, NextJS, Web3 projects.
 - 🌱 I’m always learning stuff.

@@ -1,13 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=00D800&vCenter=true&random=false&width=435&lines=CodeTaskforce!)](https://git.io/typing-svg)
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=34&duration=3000&pause=1000&width=620&height=70&color=66FCF1&lines=I'm+CodeTaskforce;I'm+Decentralizing;I'm+Programming;I'm+Coding;I'm+Tokenizing;I'm+Styling;I'm+Debugging;I'm+Crafting;I'm+Building;I'm+Developing;I'm+Managing;I'm+Strategizing" alt="Typing SVG" />
+  </a>
+</div>
 
-- 👀 I’m interested in React, NextJS, Web3 projects.
-- 🌱 I’m always learning stuff.
-- 💞️ I’m looking to collaborate wherever I can.
+- 👀 Passionate about React, NextJS, and Web3 technologies.
+- 🌱 Constantly expanding my knowledge and skills.
+- 💞️ Eager to collaborate on exciting projects and contribute wherever possible.
 
 ###
+🌐 Feel free to explore more and get in touch through the button below!
+
 <div align="left">
   <a href="https://taskforce.wiki" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WEBSITE&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Website Button"  />
+    <img src="https://img.shields.io/static/v1?message=WEBSITE&label=&color=66FCF1&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="Website Button"  />
   </a>
 </div>
 
